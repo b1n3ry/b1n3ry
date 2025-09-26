@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @b1n3ry
-- 👀 I’m interested in everything
-- 🌱 I’m currently learning everything
+- 👀 I’m simple Developer
+
 
 
 <!---
